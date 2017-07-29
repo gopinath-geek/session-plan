@@ -1,0 +1,83 @@
+1. Introduction to Bootstrap
+    
+    Description : 
+        This Introduction to Bootstrap session helps to understand what is responsive web design and how this achieved using bootstrap further it describes how to include Bootstrap libraries into a project and fundamental concepts of bootstrap libraries
+            
+    Estimated Time : 120 Mins
+    
+    (05 Mins) 1. What is Bootstrap and what for ? 
+    (05 Mins) 2. Setting up a Bootstrap Project
+    (15 Mins) 3. Grid systems and Size schemes
+    (15 Mins) 4. Typography and Code
+    (15 Mins) 5. Color schemes and Input elements
+    (10 Mins) 6. Images and Videos
+    (15 Mins) 7. Carousel : Using Owl Carousel
+    (10 Mins) 8. Icons : Using Font awesome and Icons 8
+    (10 Mins) 9. Responsive utilities
+    (20 Mins) 10. Using JavaScript Components ( with example of Alert and Scrollspy )
+        
+ 
+2. Debugging web pages and understanding HTTP
+        
+    Description :
+        This session helps to use browser built developer tools to trace network requests and responses, finding bugs on console, script debugging, further describes the frequently encountered HTTP errors
+            
+    Estimated Time : 120 Mins
+        
+    (10 Mins) 1. Tracing, Editing and Deleting Elements
+    (15 Mins) 2. Logging on Console, Running JavaScript on Console
+    (15 Mins) 3. Tracking Script Errors and Fixing
+    (15 Mins) 4. Adding Breakpoints to scripts
+    (15 Mins) 5. Understanding Network Tab
+    (05 Mins) 6. Understanding Query String, URI and URL
+    (10 Mins) 7. Understanding File Paths
+    (05 Mins) 8. URL Encoding
+    (10 Mins) 9. Informational Responses
+    (10 Mins) 10. Success Responses
+    (10 Mins) 11. Error Responses
+        
+ 
+3. Creating and Compiling SASS
+    
+    Description :
+        This session helps to understand how CSS pre-processors helps to create and manage styling rules neat and short, further discusses about using task runner Gulp to automate the frequent front-end tasks finally discusses about compiling SASS files of bootstrap.
+            
+    Estimated Time : 120 Mins
+    
+    (10 Mins) 1. Installing and Setting up Node
+    (10 Mins) 2. Installing Ruby and SASS
+    (05 Mins) 3. What is CSS pre-processor and what for ?
+    (05 Mins) 4. Creating First SASS file and Compiling
+    (05 Mins) 5. Variables and Nesting
+    (10 Mins) 6. Partials and Importing them
+    (07 Mins) 7. Mixins and Inheritance
+    (03 Mins) 8. Arithmetic Operators
+    (05 Mins) 9. What is Gulp and what for ?
+    (10 Mins) 10. Creating a Gulp project
+    (15 Mins) 11. Creating and Running Gulp task
+    (05 Mins) 12. Downloading Bootstrap source code
+    (10 Mins) 13. Modifying basic color schemes
+    (20 Mins) 14. Extending Gulp task with Bootstrap source code changes
+        
+4. A Gentle Introduction to Git & Github
+        
+    Description:
+        This session helps to understand how to use Git command line interface and Web interface. Basic operations like initializing project, committing, pushing, pulling request, merging, branching, forking and fetching will be discussed.
+            
+    Estimated Time : 140 Mins
+        
+    (05 Mins) 1. What is version control and Git
+    (05 Mins) 2. Various Version control tools and its pros and cons
+    (05 Mins) 3. Creating Github account
+    (05 Mins) 4. Searching Users, Projects on Github
+    (05 Mins) 5. Configuring Git Global variables
+    (05 Mins) 6. Initiating a Project
+    (05 Mins) 7. Cloning a project
+    (15 Mins) 8. Understanding States of files
+    (10 Mins) 9. Adding, Modifying files
+    (10 Mins) 10. Committing and Reverting Changes
+    (20 Mins) 11. Adding Remote repositories and Fetching
+    (10 Mins) 12. Create new branch
+    (10 Mins) 13. Committing changes on new Branch
+    (10 Mins) 14. Merging Branches
+    (20 Mins) 15. Collaborating on a Project : Propose changes and Merging changes
