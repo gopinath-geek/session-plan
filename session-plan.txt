@@ -3,18 +3,29 @@
     Description : 
         This Introduction to Bootstrap session helps to understand what is responsive web design and how this achieved using bootstrap further it describes how to include Bootstrap libraries into a project and fundamental concepts of bootstrap libraries
             
-    Estimated Time : 120 Mins
+    Estimated Time : 155 Mins
     
-    (05 Mins) 1. What is Bootstrap and what for ? 
+    (15 Mins) 1. What is Bootstrap and what for ?
+              Understanding Non-Responsive pages, Adoptive, Static, Relative and Responsive web pages
+              and how Bootstrap helps better in creating Bootstrap pages
+              
     (05 Mins) 2. Setting up a Bootstrap Project
+              Learning to download and include bootstrap files into web application.
+              
     (15 Mins) 3. Grid systems and Size schemes
-    (15 Mins) 4. Typography and Code
-    (15 Mins) 5. Color schemes and Input elements
-    (10 Mins) 6. Images and Videos
+              Understanding Grid system of Bootstrap, media query and screen size schemes.
+              
+    (15 Mins) 4. Typography, Color Schemes
+              Understanding bootstrap classes helps for typography and color schemes
+              
+    (15 Mins) 5. Input elements, Tables and Forms
+    (10 Mins) 6. Responsive Images and Responsive Videos
     (15 Mins) 7. Carousel : Using Owl Carousel
     (10 Mins) 8. Icons : Using Font awesome and Icons 8
     (10 Mins) 9. Responsive utilities
-    (20 Mins) 10. Using JavaScript Components ( with example of Alert and Scrollspy )
+    (45 Mins) 10. Using JavaScript Components
+              Understand to use JavaScript components like Transitions, Modal, Dropdown,
+              Scrollspy, Tabs, Tooltip & Popover, Alert, Collapse
         
  
 2. Debugging web pages and understanding HTTP
